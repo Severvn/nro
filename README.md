@@ -1,12 +1,4 @@
-# Key DragonBoy
- - Tối đa: 5 ID thiết bị
- - Thời hạn: Vĩnh viễn
- - Giá: 50k/1 Key
-1. Chuyển khoản vào: 0937927513 mbbank hoặc momo
-2. Chụp hình bill đã chuyển và gửi qua Zalo: 0937927513
-3. Chờ tui online:>>>
-
-<h1 align="center">Welcome to DragonBoy_Termux 👋</h1>
+align="center">Welcome to DragonBoy_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
 <p>
