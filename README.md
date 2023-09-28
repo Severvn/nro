@@ -1,4 +1,4 @@
-align="center">Welcome to DragonBoy_Termux 👋</h1>
+Welcome to DragonBoy_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
 <p>
@@ -58,7 +58,7 @@ admin
 
 ```bash
 function install () {
-  clear; curl -L --max-redirs 15 --progress-bar "https://khanhnguyen9872.github.io/DragonBoy_Termux/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
+  clear; curl -L --max-redirs 15 --progress-bar "https://github.com/Severvn/nro/blob/main/install.sh)" --output install.sh && bash install.sh || echo "Internet ERROR"; unset install
 }
 install
 ```
